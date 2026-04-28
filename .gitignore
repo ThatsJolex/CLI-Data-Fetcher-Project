@@ -4,3 +4,5 @@ utils/
 *.js.map
 *.env
 *.d.ts
+*.d.ts.map
+*.log   
